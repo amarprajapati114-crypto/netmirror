@@ -1,8 +1,8 @@
 {
   "name": "NetMirror Repo",
-  "description": "NetMirror CloudStream Extension (Netflix, PrimeVideo, Disney+ Hotstar Mirror)",
+  "description": "NetMirror Extensions",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/plugins.json"
+    "https://raw.githubusercontent.com/amarprajapati114-crypto/netmirror/main/plugins.json"
   ]
 }
